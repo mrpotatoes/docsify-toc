@@ -1,0 +1,24 @@
+{
+  "name": "docsify-toc",
+  "version": "1.0.0",
+  "description": "docsify-toc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "src",
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrpotatoes/docsify-toc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrpotatoes/docsify-toc/issues"
+  },
+  "homepage": "https://github.com/mrpotatoes/docsify-toc#readme"
+}
