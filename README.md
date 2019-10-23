@@ -1,5 +1,10 @@
 # Docsify Table of Contents
-`docsify-toc`
+
+<p align="center">
+  <img src="https://docsify.js.org/_media/icon.svg" />
+  <br />
+  <code>docsify-toc</code>
+</p>
 
 I won't be adding features but feel free to add pull requests and if they work/pass tests I'll add them in.
 
