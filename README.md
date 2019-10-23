@@ -1,10 +1,10 @@
-# docsify-toc
-docsify-toc
+# Docsify Table of Contents
+`docsify-toc`
 
 I won't be adding features but feel free to add pull requests and if they work/pass tests I'll add them in.
 
 ## To use
-Add stylesheet:
+Add stylesheet
 ```html
 <link rel="stylesheet" href="https://unpkg.com/docsify-toc@1.0.0/dist/toc.css">
 ```
