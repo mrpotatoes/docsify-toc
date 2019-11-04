@@ -4,13 +4,13 @@
   justify-content: center;
 }
 .markdown-section {
-  flex: 1 1 0%;
+/*   flex: 1 1 0%; */
   margin: 0 48px;
 }
 .nav {
-  width: var(--toc-width, 200px);
-  align-self: flex-start;
-  flex: 0 0 auto;
+  width: var(--toc-width, 700px);
+/*   align-self: flex-start;
+  flex: 0 0 auto; */
 }
 aside.nav.nothing {
   width: 0;
