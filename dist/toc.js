@@ -44,10 +44,11 @@ var tocClick = function(e) {
 
 var createList = function(wrapper, count) {
   while (count--) {
-    wrapper = wrapper.appendChild(
-      document.createElement('ul')
-    );
-
+    if(wrapper){
+	    wrapper = wrapper.appendChild(
+	      document.createElement('ul')
+	    );
+    }
     if (count) {
       wrapper = wrapper.appendChild(
         document.createElement('li')
