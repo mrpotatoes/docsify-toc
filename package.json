@@ -1,6 +1,6 @@
 {
   "name": "docsify-toc",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "docsify-toc",
   "main": "index.js",
   "scripts": {
